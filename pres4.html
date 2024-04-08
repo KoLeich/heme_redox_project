@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <title>Praesident</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+<script>
+
+
+function change(){
+        document.getElementById("eins").style.zIndex= -1; 
+        document.getElementById("zwei").style.zIndex= 1; 
+
+
+    }    
+    function change1(){
+        document.getElementById("eins").style.zIndex= 1; 
+        document.getElementById("zwei").style.zIndex= -1; 
+
+
+    }
+
+    function changeid(i1,i2){
+        document.getElementById(i1).style.zIndex = -1
+        document.getElementById(i2).style.zIndex = 1
+        
+    }
+
+</script>
+<style>
+    body{
+        background-color: black;
+        color: aliceblue;
+
+    }
+    #eins{
+        z-index: -1;
+    }
+    #zwei{
+        z-index: 1;
+    }
+
+    .box{
+        height: 100%;
+        margin-top: 200px;
+        margin-bottom: 200px;
+        display: grid;
+    }
+
+    .item{
+
+        grid-column-start: 2;
+        grid-column-end: 2;
+        grid-row-start: 1;
+        grid-row-end: 3;     
+
+    }
+    .item:mouseover{
+        z-index: -1;
+    }
+</style>
+
+<body>
+    <div class = "box">
+
+        <div class="item " >
+            <img src="plots/saddling.png" alt="Chicago" >
+        </div>  
+
+
+    </div>
+    <div class = "box">
+
+        <div class="item " >
+            <img src="plots/ruffling_both.png" alt="Chicago" >
+        </div>  
+
+
+    </div>    
+    
+    <div class = "box">
+
+        <div class="item " >
+            <img src="plots/dihed_both.png" alt="Chicago" >
+        </div>  
+
+    </div>    
+    
+    <div class = "box">
+
+        <div class="item " >
+            <img src="plots/linear_combi.png" alt="Chicago" >
+        </div>  
+
+    </div>
+    <div class = "box">
+
+        <div class="item " >
+            <img src="plots/linear_combi_rufflin<20.png" alt="Chicago" >
+        </div>  
+
+    </div>
+
+    <div class = "box">
+
+        <div class="item " >
+            <img src="plots/linear_combi_rufflin<10.png" alt="Chicago" >
+        </div>  
+
+    </div>
+
+    <div class = "box">
+
+        <div class="item " >
+            <img src="plots/dihed_both_10.png" alt="Chicago" >
+        </div>  
+
+    </div>    
+ <!--   <div class = "box" > 
+
+        <div class="item eins"  id = "eins" onclick="change()">
+            <img src="plots/ruffling_20.png" alt="Chicago" >
+        </div>    
+
+
+        <div class="item zwei" id = "zwei"  onclick="change1()">
+            <img src="plots/ruffling.png" alt="Chicago">
+        </div>
+
+    </div>-->
+
+
+
+
+    <div class = "box">
+        <div class="item o2 " id = "o1">
+            <img src="plots/bucket_ruffling_2.png" alt="Chicago" onclick = 'changeid("o1","o2")' >
+        </div>  
+        <div class="item o1" id ="o2" >
+            <img src="plots/bucket_ruffling_1.png" alt="Chicago" onclick = 'changeid("o2","o1")'>
+        </div>  
+    </div>   
+    <div class = "box">
+
+
+    <div class = "box">
+        <div class="item bs2 " id = "bs1">
+            <img src="plots/bucket_saddling_2.png" alt="Chicago" onclick = 'changeid("bs1","bs2")' >
+        </div>  
+        <div class="item bs1" id ="bs2" >
+            <img src="plots/bucket_saddling_1.png" alt="Chicago" onclick = 'changeid("bs2","bs1")'>
+        </div>  
+    </div>   
+    <div class = "box">
+
+
+
+
+</body>  

@@ -1,0 +1,989 @@
+1a6g_01_chloro.log
+ Job cpu time:       0 days  2 hours 24 minutes  8.6 seconds.
+ 
+1a6g_01_nbo.log
+ Job cpu time:       4 days 19 hours 26 minutes 42.8 seconds.
+ 
+1a6g_05_nbo.log
+ Job cpu time:       3 days  5 hours 45 minutes 31.5 seconds.
+ 
+1a6g_12_nbo.log
+ Job cpu time:       3 days 20 hours 31 minutes  5.3 seconds.
+ 
+1a6g_16_chloro.log
+ Job cpu time:       2 days  1 hours 15 minutes 32.0 seconds.
+ 
+1a6g_16_nbo.log
+ Job cpu time:       0 days  5 hours 22 minutes 12.8 seconds.
+ 
+1a6k_01_chloro.log
+ Job cpu time:       0 days  1 hours 52 minutes  7.2 seconds.
+ 
+1a6k_01_nbo.log
+ Job cpu time:       3 days 20 hours  2 minutes 12.1 seconds.
+ 
+1a6k_05_chloro.log
+ Job cpu time:       1 days 23 hours 58 minutes 31.3 seconds.
+ 
+1a6k_05_nbo.log
+ Job cpu time:       0 days  4 hours 10 minutes 17.8 seconds.
+ 
+1a6k_12_nbo.log
+ Job cpu time:      16 days 17 hours 51 minutes  8.9 seconds.
+ 
+1a6k_16_nbo.log
+ Job cpu time:       2 days 23 hours 14 minutes 17.8 seconds.
+ 
+1a6m_01_chloro.log
+ Job cpu time:       0 days  2 hours  2 minutes 50.4 seconds.
+ 
+1a6m_01_nbo.log
+ Job cpu time:       4 days 18 hours 13 minutes 46.2 seconds.
+ 
+1a6m_05_nbo.log
+ Job cpu time:       5 days 22 hours  5 minutes 24.4 seconds.
+ 
+1a6m_12_nbo.log
+ Job cpu time:       3 days 21 hours 20 minutes 50.8 seconds.
+ 
+1a6m_16_nbo.log
+ Job cpu time:       6 days 16 hours 59 minutes 22.6 seconds.
+ 
+1aw3_01_chloro.log
+ Job cpu time:       0 days  2 hours 54 minutes 28.8 seconds.
+ 
+1aw3_01_nbo.log
+ Job cpu time:       5 days  4 hours 36 minutes 53.2 seconds.
+ 
+1aw3_05_nbo.log
+ Job cpu time:      10 days 13 hours 22 minutes 21.9 seconds.
+ 
+1aw3_12_nbo.log
+ Job cpu time:       4 days 18 hours 41 minutes 25.7 seconds.
+ 
+1aw3_16_nbo.log
+ Job cpu time:       2 days 14 hours 46 minutes  0.5 seconds.
+ 
+1b5a_01_chloro.log
+ Job cpu time:       0 days  4 hours  8 minutes  0.2 seconds.
+ 
+1b5a_01_nbo.log
+ Job cpu time:       7 days  4 hours 56 minutes 58.0 seconds.
+ 
+1b5a_05_nbo.log
+ Job cpu time:      26 days 19 hours 22 minutes 31.8 seconds.
+ 
+1b5a_12_nbo.log
+ Job cpu time:       3 days 15 hours 59 minutes 39.8 seconds.
+ 
+1b5a_16_nbo.log
+ Job cpu time:       3 days  0 hours 24 minutes 13.5 seconds.
+ 
+1c6r_01_chloro.log
+ Job cpu time:       0 days  3 hours 55 minutes 29.0 seconds.
+ 
+1c6r_01_nbo.log
+ Job cpu time:       7 days 23 hours 11 minutes 16.4 seconds.
+ 
+1c6r_05_chloro.log
+ Job cpu time:       1 days 21 hours 52 minutes 11.8 seconds.
+ 
+1c6r_05_nbo.log
+ Job cpu time:       8 days  5 hours 56 minutes 56.6 seconds.
+ 
+1c6r_12_chloro.log
+ Job cpu time:       5 days 23 hours 38 minutes 21.3 seconds.
+ 
+1c6r_12_nbo.log
+ Job cpu time:       8 days 11 hours 34 minutes 36.9 seconds.
+ 
+1c6r_16_chloro.log
+ Job cpu time:       1 days 14 hours 25 minutes 39.9 seconds.
+ 
+1c6r_16_nbo.log
+ Job cpu time:       2 days 22 hours  3 minutes 47.0 seconds.
+ 
+1c75_01_chloro.log
+ Job cpu time:       2 days  0 hours 36 minutes  6.5 seconds.
+ 
+1c75_01_nbo.log
+ Job cpu time:       0 days  4 hours 19 minutes 20.1 seconds.
+ 
+1c75_05_chloro.log
+ Job cpu time:       8 days  4 hours  0 minutes 51.4 seconds.
+ 
+1c75_05_nbo.log
+ Job cpu time:       0 days 12 hours 36 minutes 27.0 seconds.
+ 
+1c75_12_nbo.log
+ Error termination via Lnk1e in /afs/math/software/gaussian/g16.A03/g16/l502.exe at Sun Jan  1 21:29:44 2023.
+ 
+1c75_16_chloro.log
+ Job cpu time:       1 days 12 hours 11 minutes 14.2 seconds.
+ 
+1c75_16_nbo.log
+ Job cpu time:       2 days 17 hours 32 minutes 55.8 seconds.
+ 
+1ccc_01_chloro.log
+ Job cpu time:       0 days  1 hours 54 minutes  4.4 seconds.
+ 
+1ccc_01_nbo.log
+ Job cpu time:       3 days 20 hours  8 minutes 36.6 seconds.
+ 
+1ccc_05_chloro.log
+ Job cpu time:       2 days  7 hours 48 minutes 36.3 seconds.
+ 
+1ccc_05_nbo.log
+ Job cpu time:       4 days  2 hours  2 minutes 24.6 seconds.
+ 
+1ccc_12_chloro.log
+ Job cpu time:       2 days 15 hours 29 minutes 45.7 seconds.
+ 
+1ccc_12_nbo.log
+ Job cpu time:       4 days  1 hours  7 minutes  2.8 seconds.
+ 
+1ccc_16_chloro.log
+ Job cpu time:       3 days  8 hours  2 minutes 38.2 seconds.
+ 
+1ccc_16_nbo.log
+ Job cpu time:       5 days 19 hours 37 minutes 33.2 seconds.
+ 
+1cce_01_chloro.log
+ Job cpu time:       0 days 15 hours 17 minutes 52.1 seconds.
+ 
+1cce_01_nbo.log
+ Job cpu time:       0 days  1 hours 20 minutes 28.2 seconds.
+ 
+1cce_05_chloro.log
+ Job cpu time:       1 days 13 hours  2 minutes 32.6 seconds.
+ 
+1cce_05_nbo.log
+ Job cpu time:       3 days  3 hours 21 minutes 38.7 seconds.
+ 
+1cce_12_chloro.log
+ Job cpu time:       2 days  3 hours 21 minutes 31.3 seconds.
+ 
+1cce_12_nbo.log
+ Job cpu time:       4 days  6 hours  8 minutes  4.2 seconds.
+ 
+1cce_16_chloro.log
+ Job cpu time:       3 days  6 hours  5 minutes 21.0 seconds.
+ 
+1cce_16_nbo.log
+ Job cpu time:       4 days 17 hours 22 minutes 23.8 seconds.
+ 
+1ccg_01_chloro.log
+ Job cpu time:       0 days  1 hours 51 minutes  0.3 seconds.
+ 
+1ccg_01_nbo.log
+ Job cpu time:       3 days 16 hours 17 minutes 49.6 seconds.
+ 
+1ccg_05_chloro.log
+ Job cpu time:       2 days  0 hours 37 minutes 18.0 seconds.
+ 
+1ccg_05_nbo.log
+ Job cpu time:       4 days  0 hours 29 minutes 42.8 seconds.
+ 
+1ccg_12_chloro.log
+ Job cpu time:       2 days 13 hours 39 minutes 41.0 seconds.
+ 
+1ccg_12_nbo.log
+ Job cpu time:       3 days 19 hours 45 minutes 42.1 seconds.
+ 
+1ccg_16_chloro.log
+ Job cpu time:       3 days 11 hours 17 minutes 24.8 seconds.
+ 
+1ccg_16_nbo.log
+ Job cpu time:       5 days 18 hours 22 minutes 42.1 seconds.
+ 
+1cck_01_nbo.log
+ Job cpu time:       6 days 16 hours 48 minutes  6.2 seconds.
+ 
+1cck_05_chloro.log
+ Job cpu time:       4 days 22 hours 25 minutes  1.9 seconds.
+ 
+1cck_05_nbo.log
+ Job cpu time:       0 days  4 hours 18 minutes 41.5 seconds.
+ 
+1cck_12_nbo.log
+ Job cpu time:      25 days  0 hours 58 minutes  7.5 seconds.
+ 
+1cck_16_nbo.log
+ Job cpu time:       2 days 22 hours  9 minutes 39.0 seconds.
+ 
+1cmq_01_chloro.log
+ Job cpu time:       0 days  1 hours 59 minutes 58.0 seconds.
+ 
+1cmq_01_nbo.log
+ Job cpu time:       3 days 23 hours 59 minutes 30.9 seconds.
+ 
+1cmq_05_nbo.log
+ Job cpu time:       4 days 15 hours 59 minutes 49.1 seconds.
+ 
+1cmq_12_nbo.log
+ Job cpu time:       7 days 14 hours 47 minutes  9.1 seconds.
+ 
+1cmq_16_nbo.log
+ Job cpu time:       3 days 17 hours 26 minutes 50.7 seconds.
+ 
+1cmt_01_chloro.log
+ Job cpu time:       0 days  2 hours 11 minutes 15.8 seconds.
+ 
+1cmt_01_nbo.log
+ Job cpu time:       4 days 20 hours 34 minutes 52.8 seconds.
+ 
+1cmt_05_nbo.log
+ Job cpu time:       5 days  1 hours 47 minutes 13.9 seconds.
+ 
+1cmt_12_nbo.log
+ Job cpu time:       7 days 11 hours  8 minutes 48.4 seconds.
+ 
+1cmt_16_nbo.log
+ Job cpu time:       3 days 21 hours 48 minutes 13.7 seconds.
+ 
+1cpo_01_chloro.log
+ Job cpu time:       0 days  1 hours 26 minutes 58.0 seconds.
+ 
+1cpo_01_nbo.log
+ Job cpu time:       3 days  7 hours 51 minutes  4.6 seconds.
+ 
+1cpo_05_nbo.log
+ Job cpu time:       4 days 20 hours 52 minutes  8.9 seconds.
+ 
+1cpo_12_nbo.log
+ Job cpu time:       0 days  2 hours 59 minutes 55.4 seconds.
+ 
+1cpo_16_nbo.log
+ Job cpu time:       5 days  2 hours 44 minutes 34.5 seconds.
+ 
+1cry_01_chloro.log
+ Job cpu time:       0 days  4 hours  1 minutes 52.4 seconds.
+ 
+1cry_01_nbo.log
+ Job cpu time:      11 days 10 hours  9 minutes  0.8 seconds.
+ 
+1cry_05_nbo.log
+ Job cpu time:       4 days 17 hours 31 minutes 12.7 seconds.
+ 
+1cry_12_nbo.log
+ Job cpu time:      20 days  4 hours  5 minutes 39.3 seconds.
+ 
+1cry_16_nbo.log
+ Job cpu time:       4 days  0 hours 50 minutes 31.3 seconds.
+ 
+1ctj_01_chloro.log
+ Job cpu time:       5 days 13 hours 34 minutes 40.5 seconds.
+ 
+1ctj_01_nbo.log
+ Job cpu time:       6 days 13 hours  1 minutes 20.6 seconds.
+ 
+1ctj_05_chloro.log
+ Job cpu time:       4 days 14 hours 40 minutes 12.2 seconds.
+ 
+1ctj_05_nbo.log
+ Job cpu time:       9 days  8 hours 38 minutes 36.5 seconds.
+ 
+1ctj_12_chloro.log
+ Job cpu time:       3 days 22 hours 59 minutes 16.9 seconds.
+ 
+1ctj_12_nbo.log
+ Job cpu time:       5 days 18 hours 40 minutes 56.3 seconds.
+ 
+1ctj_16_chloro.log
+ Job cpu time:       2 days 14 hours 30 minutes 39.8 seconds.
+ 
+1ctj_16_nbo.log
+ Job cpu time:       4 days 11 hours 42 minutes 25.8 seconds.
+ 
+1cxc_01_chloro.log
+ Job cpu time:       0 days  4 hours  5 minutes  4.8 seconds.
+ 
+1cxc_01_nbo.log
+ Job cpu time:      10 days 13 hours 28 minutes 55.7 seconds.
+ 
+1cxc_05_nbo.log
+ Job cpu time:       0 days  5 hours 28 minutes 54.0 seconds.
+ 
+1cxc_12_nbo.log
+ Job cpu time:       5 days 19 hours 31 minutes 54.2 seconds.
+ 
+1cxc_16_nbo.log
+ Job cpu time:       6 days 17 hours 32 minutes 14.1 seconds.
+ 
+1cyi_01_chloro.log
+ Job cpu time:       0 days  3 hours 13 minutes 53.4 seconds.
+ 
+1cyi_01_nbo.log
+ Job cpu time:       7 days 10 hours 12 minutes 55.2 seconds.
+ 
+1cyi_05_chloro.log
+ Job cpu time:       4 days 20 hours 32 minutes 35.1 seconds.
+ 
+1cyi_05_nbo.log
+ Job cpu time:       6 days 12 hours 53 minutes 56.5 seconds.
+ 
+1cyi_12_chloro.log
+ Job cpu time:       3 days  1 hours 32 minutes  4.2 seconds.
+ 
+1cyi_12_nbo.log
+ Job cpu time:       8 days  0 hours  5 minutes 28.8 seconds.
+ 
+1cyi_16_chloro.log
+ Job cpu time:       3 days 14 hours 19 minutes  1.7 seconds.
+ 
+1cyi_16_nbo.log
+ Job cpu time:      21 days  8 hours  4 minutes 45.5 seconds.
+ 
+1cyo_01_chloro.log
+ Job cpu time:       0 days  2 hours 34 minutes 11.5 seconds.
+ 
+1cyo_01_nbo.log
+ Job cpu time:       5 days 12 hours 15 minutes 47.7 seconds.
+ 
+1cyo_05_nbo.log
+ Job cpu time:       8 days  1 hours 51 minutes 44.3 seconds.
+ 
+1cyo_12_nbo.log
+ Job cpu time:      15 days  4 hours 27 minutes 11.5 seconds.
+ 
+1cyo_16_nbo.log
+ Job cpu time:      13 days 15 hours 44 minutes  3.9 seconds.
+ 
+1dj1_01_chloro.log
+ Job cpu time:       0 days  3 hours  1 minutes 15.4 seconds.
+ 
+1dj1_01_nbo.log
+ Job cpu time:       5 days 20 hours 54 minutes 13.4 seconds.
+ 
+1dj1_05_nbo.log
+ Job cpu time:       6 days 18 hours 16 minutes 56.1 seconds.
+ 
+1dj1_12_nbo.log
+ Job cpu time:       5 days  9 hours 59 minutes 52.9 seconds.
+ 
+1dj1_16_nbo.log
+ Job cpu time:       4 days 11 hours 53 minutes 25.3 seconds.
+ 
+1drm_01_chloro.log
+ Job cpu time:       0 days  1 hours 58 minutes 35.1 seconds.
+ 
+1drm_01_nbo.log
+ Job cpu time:       3 days 23 hours 29 minutes 52.3 seconds.
+ 
+1drm_05_nbo.log
+ Job cpu time:       2 days 20 hours  9 minutes 57.9 seconds.
+ 
+1drm_12_nbo.log
+ Job cpu time:       4 days 20 hours  3 minutes 31.5 seconds.
+ 
+1drm_16_nbo.log
+ Job cpu time:       5 days  2 hours 23 minutes 57.1 seconds.
+ 
+1ebt_01_chloro.log
+ Job cpu time:       0 days  3 hours 21 minutes 16.7 seconds.
+ 
+1ebt_01_nbo.log
+ Job cpu time:       7 days  2 hours 49 minutes 10.5 seconds.
+ 
+1ebt_05_nbo.log
+ Job cpu time:       5 days 19 hours  2 minutes  0.6 seconds.
+ 
+1ebt_12_nbo.log
+ Job cpu time:       2 days  9 hours 12 minutes 17.1 seconds.
+ 
+1ebt_16_nbo.log
+ Job cpu time:       2 days 11 hours 44 minutes 57.5 seconds.
+ 
+1ehb_01_chloro.log
+ Job cpu time:       0 days  2 hours 41 minutes  4.6 seconds.
+ 
+1ehb_01_nbo.log
+ Job cpu time:       5 days 10 hours 42 minutes 16.7 seconds.
+ 
+1ehb_05_nbo.log
+ Job cpu time:      25 days 22 hours 17 minutes 37.5 seconds.
+ 
+1ehb_12_nbo.log
+ Job cpu time:       5 days  4 hours 36 minutes 54.2 seconds.
+ 
+1ehb_16_nbo.log
+ Job cpu time:       6 days  4 hours 48 minutes 43.4 seconds.
+ 
+1es1_01_chloro.log
+ Job cpu time:       1 days 20 hours 44 minutes 32.4 seconds.
+ 
+1es1_01_nbo.log
+ Job cpu time:       0 days  4 hours 13 minutes 18.5 seconds.
+ 
+1es1_05_chloro.log
+ Job cpu time:       5 days 19 hours 28 minutes  8.9 seconds.
+ 
+1es1_05_nbo.log
+ Job cpu time:       9 days 16 hours 34 minutes 23.2 seconds.
+ 
+1es1_12_chloro.log
+ Job cpu time:       6 days  8 hours 34 minutes 33.6 seconds.
+ 
+1es1_12_nbo.log
+ Job cpu time:      10 days  1 hours 26 minutes 50.8 seconds.
+ 
+1es1_16_chloro.log
+ Job cpu time:       2 days 21 hours  9 minutes 38.9 seconds.
+ 
+1es1_16_nbo.log
+ Job cpu time:       5 days 22 hours 18 minutes 10.4 seconds.
+ 
+1eue_01_chloro.log
+ Job cpu time:       0 days  4 hours  4 minutes 19.6 seconds.
+ 
+1eue_01_nbo.log
+ Job cpu time:       7 days  9 hours 31 minutes 29.6 seconds.
+ 
+1eue_05_nbo.log
+ Job cpu time:       6 days  0 hours 56 minutes  2.4 seconds.
+ 
+1eue_12_nbo.log
+ Job cpu time:      13 days 16 hours 29 minutes 48.3 seconds.
+ 
+1eue_16_nbo.log
+ Job cpu time:       5 days  6 hours 26 minutes  1.7 seconds.
+ 
+1f1c_01_chloro.log
+ Job cpu time:       0 days  2 hours 32 minutes  9.2 seconds.
+ 
+1f1c_01_nbo.log
+ Job cpu time:       6 days  5 hours 22 minutes 54.9 seconds.
+ 
+1f1c_05_nbo.log
+ Job cpu time:       5 days  4 hours 39 minutes 15.4 seconds.
+ 
+1f1c_12_nbo.log
+ Job cpu time:      13 days  3 hours 51 minutes 44.1 seconds.
+ 
+1f1c_16_nbo.log
+ Job cpu time:       4 days  8 hours 45 minutes 58.6 seconds.
+ 
+1f1f_01_chloro.log
+ Job cpu time:       1 days  0 hours 47 minutes 56.2 seconds.
+ 
+1f1f_01_nbo.log
+ Job cpu time:       0 days  3 hours 25 minutes 12.1 seconds.
+ 
+1f1f_05_chloro.log
+ Job cpu time:       2 days 11 hours 30 minutes 17.9 seconds.
+ 
+1f1f_05_nbo.log
+ Job cpu time:       4 days  4 hours 49 minutes 21.9 seconds.
+ 
+1f1f_12_chloro.log
+ Job cpu time:       3 days  8 hours 51 minutes 54.1 seconds.
+ 
+1f1f_12_nbo.log
+ Job cpu time:       6 days  6 hours 24 minutes 16.5 seconds.
+ 
+1f1f_16_chloro.log
+ Job cpu time:       1 days 14 hours 44 minutes 45.3 seconds.
+ 
+1f1f_16_nbo.log
+ Job cpu time:       2 days 23 hours 31 minutes 48.3 seconds.
+ 
+1fhf_01_chloro.log
+ Job cpu time:       0 days  3 hours  3 minutes 23.6 seconds.
+ 
+1fhf_01_nbo.log
+ Job cpu time:       6 days 18 hours 19 minutes 35.4 seconds.
+ 
+1fhf_05_nbo.log
+ Job cpu time:       2 days 23 hours  3 minutes 46.1 seconds.
+ 
+1fhf_12_nbo.log
+ Job cpu time:       5 days 21 hours 31 minutes 57.9 seconds.
+ 
+1fhf_16_nbo.log
+ Job cpu time:       5 days 18 hours 12 minutes 56.1 seconds.
+ 
+1fj0_01_chloro.log
+ Job cpu time:       0 days  2 hours 52 minutes 48.1 seconds.
+ 
+1fj0_01_nbo.log
+ Job cpu time:       7 days  5 hours 12 minutes 52.2 seconds.
+ 
+1fj0_05_nbo.log
+ Job cpu time:      14 days 22 hours  0 minutes 29.3 seconds.
+ 
+1fj0_12_nbo.log
+ Job cpu time:       5 days 17 hours 41 minutes  2.6 seconds.
+ 
+1fj0_16_nbo.log
+ Job cpu time:      14 days 20 hours 56 minutes 53.8 seconds.
+ 
+1giw_01_chloro.log
+ Job cpu time:       0 days  4 hours  7 minutes 39.7 seconds.
+ 
+1giw_01_nbo.log
+ Job cpu time:      10 days 12 hours 36 minutes 23.2 seconds.
+ 
+1giw_05_nbo.log
+ Job cpu time:       6 days 23 hours 34 minutes 50.7 seconds.
+ 
+1giw_12_nbo.log
+ Job cpu time:      12 days 20 hours 33 minutes  2.4 seconds.
+ 
+1giw_16_nbo.log
+ Job cpu time:      12 days 16 hours 35 minutes 10.3 seconds.
+ 
+1gu2_01_chloro.log
+ Job cpu time:       0 days  4 hours 26 minutes 42.5 seconds.
+ 
+1gu2_01_nbo.log
+ Job cpu time:      10 days 21 hours 22 minutes 12.9 seconds.
+ 
+1gu2_05_nbo.log
+ Job cpu time:      19 days 14 hours 46 minutes 41.6 seconds.
+ 
+1gu2_12_nbo.log
+ Job cpu time:      28 days 17 hours 57 minutes 39.0 seconds.
+ 
+1gu2_16_nbo.log
+ Job cpu time:      10 days 18 hours 51 minutes 39.7 seconds.
+ 
+1hrc_01_chloro.log
+ Job cpu time:       0 days  3 hours 58 minutes 59.3 seconds.
+ 
+1hrc_01_nbo.log
+ Job cpu time:       9 days 19 hours 55 minutes 56.6 seconds.
+ 
+1hrc_05_nbo.log
+ Job cpu time:       6 days 15 hours  5 minutes 20.9 seconds.
+ 
+1hrc_12_nbo.log
+ Job cpu time:       7 days  6 hours 49 minutes 10.9 seconds.
+ 
+1hrc_16_nbo.log
+ Job cpu time:       7 days  5 hours 45 minutes  8.4 seconds.
+ 
+1jbq_01_chloro.log
+ Job cpu time:       0 days  2 hours 23 minutes 15.1 seconds.
+ 
+1jbq_01_nbo.log
+ Job cpu time:       5 days 10 hours 39 minutes 44.3 seconds.
+ 
+1jbq_05_nbo.log
+ Job cpu time:       3 days 22 hours 20 minutes 53.7 seconds.
+ 
+1jbq_12_nbo.log
+ Job cpu time:       8 days 20 hours 47 minutes 10.1 seconds.
+ 
+1jbq_16_nbo.log
+ Job cpu time:       3 days  5 hours 42 minutes 51.0 seconds.
+ 
+1jdl_01_chloro.log
+ Job cpu time:       0 days  2 hours 42 minutes 17.7 seconds.
+ 
+1jdl_01_nbo.log
+ Job cpu time:       5 days 12 hours 30 minutes 17.1 seconds.
+ 
+1jdl_05_nbo.log
+ Job cpu time:       5 days  0 hours 57 minutes 14.2 seconds.
+ 
+1jdl_12_nbo.log
+ Job cpu time:      14 days 17 hours 35 minutes 42.9 seconds.
+ 
+1jdl_16_nbo.log
+ Job cpu time:       5 days 13 hours 12 minutes  5.4 seconds.
+ 
+1jp6_01_chloro.log
+ Job cpu time:       0 days  2 hours 13 minutes 44.3 seconds.
+ 
+1jp6_01_nbo.log
+ Job cpu time:       5 days  4 hours 22 minutes 53.8 seconds.
+ 
+1jp6_05_nbo.log
+ Job cpu time:       6 days  7 hours 58 minutes 23.8 seconds.
+ 
+1jp6_12_nbo.log
+ Job cpu time:       0 days  2 hours 36 minutes  2.2 seconds.
+ 
+1jp6_16_nbo.log
+ Job cpu time:       4 days  3 hours 45 minutes 17.5 seconds.
+ 
+1jp9_01_chloro.log
+ Job cpu time:       0 days  2 hours 16 minutes 21.8 seconds.
+ 
+1jp9_01_nbo.log
+ Job cpu time:       4 days 23 hours 22 minutes  5.8 seconds.
+ 
+1jp9_05_nbo.log
+ Job cpu time:       0 days  2 hours 29 minutes 49.3 seconds.
+ 
+1jp9_12_nbo.log
+ Job cpu time:       5 days 13 hours 31 minutes 23.5 seconds.
+ 
+1jp9_16_nbo.log
+ Job cpu time:       4 days  7 hours 52 minutes 20.6 seconds.
+ 
+1moh_01_chloro.log
+ Job cpu time:       0 days  3 hours 19 minutes 43.1 seconds.
+ 
+1moh_01_nbo.log
+ Job cpu time:       6 days 19 hours 22 minutes 58.6 seconds.
+ 
+1moh_05_nbo.log
+ Job cpu time:       7 days 10 hours 25 minutes 52.6 seconds.
+ 
+1moh_12_nbo.log
+ Job cpu time:       6 days  2 hours 38 minutes 30.1 seconds.
+ 
+1moh_16_nbo.log
+ Job cpu time:       0 days  4 hours 28 minutes 19.0 seconds.
+ 
+1mz4_01_chloro.log
+ Job cpu time:       0 days  2 hours 36 minutes 31.7 seconds.
+ 
+1mz4_01_nbo.log
+ Job cpu time:       6 days 11 hours  7 minutes  8.9 seconds.
+ 
+1mz4_05_nbo.log
+ Job cpu time:      31 days 15 hours 56 minutes 28.8 seconds.
+ 
+1mz4_12_nbo.log
+ Job cpu time:       6 days 16 hours 11 minutes 53.9 seconds.
+ 
+1mz4_16_nbo.log
+ Job cpu time:       4 days 11 hours 53 minutes 47.4 seconds.
+ 
+1nsi_01_chloro.log
+ Job cpu time:       0 days  1 hours 26 minutes 57.6 seconds.
+ 
+1nsi_01_nbo.log
+ Job cpu time:       2 days 19 hours  4 minutes 50.0 seconds.
+ 
+1nsi_05_nbo.log
+ Job cpu time:      21 days 12 hours 37 minutes 54.1 seconds.
+ 
+1nsi_12_nbo.log
+ Job cpu time:       0 days  1 hours 51 minutes  7.3 seconds.
+ 
+1nsi_16_nbo.log
+ Job cpu time:       1 days 12 hours 54 minutes 57.2 seconds.
+ 
+1qpu_01_chloro.log
+ Job cpu time:       1 days  8 hours 14 minutes 52.1 seconds.
+ 
+1qpu_01_nbo.log
+ Job cpu time:       6 days 23 hours 24 minutes 39.4 seconds.
+ 
+1qpu_05_chloro.log
+ Job cpu time:       8 days 16 hours 35 minutes 17.5 seconds.
+ 
+1qpu_05_nbo.log
+ Job cpu time:       9 days 15 hours 34 minutes 11.9 seconds.
+ 
+1qpu_12_chloro.log
+ Job cpu time:       4 days  4 hours 40 minutes  5.5 seconds.
+ 
+1qpu_12_nbo.log
+ Job cpu time:       6 days 12 hours 15 minutes 43.6 seconds.
+ 
+1qpu_16_chloro.log
+ Job cpu time:       8 days 13 hours 18 minutes 35.8 seconds.
+ 
+1qpu_16_nbo.log
+ Job cpu time:      10 days 12 hours 42 minutes 18.8 seconds.
+ 
+1v9z_01_chloro.log
+ Job cpu time:       0 days  2 hours 26 minutes 29.6 seconds.
+ 
+1v9z_01_nbo.log
+ Job cpu time:       4 days 21 hours 17 minutes  4.7 seconds.
+ 
+1v9z_05_nbo.log
+ Job cpu time:      23 days 23 hours 32 minutes 32.8 seconds.
+ 
+1v9z_12_nbo.log
+ Job cpu time:      17 days  6 hours 23 minutes 42.9 seconds.
+ 
+1v9z_16_nbo.log
+ Job cpu time:       4 days  3 hours 33 minutes 49.3 seconds.
+ 
+1vb6_01_chloro.log
+ Job cpu time:       0 days  2 hours 27 minutes 24.6 seconds.
+ 
+1vb6_01_nbo.log
+ Job cpu time:       5 days  1 hours 15 minutes  8.8 seconds.
+ 
+1vb6_05_nbo.log
+ Job cpu time:       8 days  0 hours 54 minutes  5.6 seconds.
+ 
+1vb6_12_nbo.log
+ Job cpu time:       6 days 10 hours  4 minutes  5.6 seconds.
+ 
+1vb6_16_nbo.log
+ Job cpu time:      23 days 22 hours 56 minutes 16.6 seconds.
+ 
+1ycc_01_chloro.log
+ Job cpu time:       0 days  2 hours 35 minutes 58.9 seconds.
+ 
+1ycc_01_nbo.log
+ Job cpu time:       5 days 23 hours 24 minutes 40.1 seconds.
+ 
+1ycc_05_nbo.log
+ Job cpu time:       6 days 21 hours 36 minutes 24.8 seconds.
+ 
+1ycc_12_nbo.log
+ Job cpu time:       6 days  6 hours 32 minutes  6.3 seconds.
+ 
+1ycc_16_nbo.log
+ Job cpu time:       5 days 15 hours 27 minutes 44.3 seconds.
+ 
+2ce0_01_chloro.log
+ Job cpu time:       0 days  2 hours 23 minutes 56.2 seconds.
+ 
+2ce0_01_nbo.log
+ Job cpu time:       6 days  0 hours  2 minutes 22.0 seconds.
+ 
+2ce0_05_chloro.log
+ Job cpu time:       5 days  5 hours 57 minutes 59.5 seconds.
+ 
+2ce0_05_nbo.log
+ Job cpu time:      18 days  7 hours 43 minutes  3.6 seconds.
+ 
+2ce0_12_chloro.log
+ Job cpu time:       5 days 19 hours 23 minutes  1.0 seconds.
+ 
+2ce0_12_nbo.log
+ Job cpu time:       7 days 11 hours 49 minutes 36.9 seconds.
+ 
+2ce0_16_nbo.log
+ Job cpu time:      10 days  4 hours 53 minutes 11.4 seconds.
+ 
+2gsm_01_chloro.log
+ Job cpu time:       0 days  1 hours 46 minutes  3.9 seconds.
+ 
+2gsm_01_nbo.log
+ Job cpu time:       3 days  5 hours  1 minutes 40.1 seconds.
+ 
+2gsm_05_nbo.log
+ Job cpu time:       3 days 10 hours 49 minutes  0.1 seconds.
+ 
+2gsm_12_nbo.log
+ Job cpu time:       5 days  9 hours 58 minutes 51.3 seconds.
+ 
+2gsm_16_nbo.log
+ Job cpu time:       3 days 12 hours 53 minutes 12.0 seconds.
+ 
+2oyy_01_chloro.log
+ Job cpu time:       0 days  2 hours  9 minutes 19.9 seconds.
+ 
+2oyy_01_nbo.log
+ Job cpu time:       4 days 23 hours 34 minutes 55.8 seconds.
+ 
+2oyy_05_nbo.log
+ Job cpu time:       9 days 22 hours 27 minutes  9.1 seconds.
+ 
+2oyy_12_chloro.log
+ Job cpu time:       4 days 11 hours 47 minutes 41.1 seconds.
+ 
+2oyy_12_nbo.log
+ Job cpu time:       0 days  2 hours 44 minutes 52.2 seconds.
+ 
+2oyy_16_nbo.log
+ Job cpu time:       2 days  2 hours 50 minutes 44.4 seconds.
+ 
+2pcb_01_chloro.log
+ Job cpu time:       0 days  2 hours 33 minutes 23.2 seconds.
+ 
+2pcb_01_nbo.log
+ Job cpu time:       5 days 10 hours  0 minutes 56.4 seconds.
+ 
+2pcb_05_chloro.log
+ Job cpu time:       3 days 22 hours 17 minutes 14.3 seconds.
+ 
+2pcb_05_nbo.log
+ Job cpu time:       7 days 13 hours  0 minutes 59.6 seconds.
+ 
+2pcb_12_nbo.log
+ Job cpu time:       6 days 22 hours 10 minutes 15.9 seconds.
+ 
+2pcb_16_nbo.log
+ Job cpu time:       6 days  0 hours 51 minutes  4.7 seconds.
+ 
+2v07_01_chloro.log
+ Job cpu time:       0 days  2 hours 54 minutes 23.1 seconds.
+ 
+2v07_01_nbo.log
+ Job cpu time:       7 days 15 hours 53 minutes 28.1 seconds.
+ 
+2v07_05_nbo.log
+ Job cpu time:       8 days 12 hours 30 minutes 19.9 seconds.
+ 
+2v07_12_nbo.log
+ Job cpu time:       9 days 17 hours 16 minutes  1.3 seconds.
+ 
+2v07_16_nbo.log
+ Job cpu time:      30 days 16 hours 24 minutes  5.0 seconds.
+ 
+351c_01_chloro.log
+ Job cpu time:       0 days  2 hours 25 minutes 58.5 seconds.
+ 
+351c_01_nbo.log
+ Job cpu time:       5 days  4 hours  1 minutes 41.1 seconds.
+ 
+351c_05_nbo.log
+ Job cpu time:       5 days 12 hours 50 minutes 49.5 seconds.
+ 
+351c_12_nbo.log
+ Job cpu time:       8 days 11 hours 26 minutes 54.7 seconds.
+ 
+351c_16_chloro.log
+ Job cpu time:       1 days 11 hours 12 minutes 31.8 seconds.
+ 
+351c_16_nbo.log
+ Job cpu time:       4 days 19 hours 50 minutes 23.0 seconds.
+ 
+3ccx_01_chloro.log
+ Job cpu time:       0 days  1 hours 43 minutes 16.3 seconds.
+ 
+3ccx_01_nbo.log
+ Job cpu time:       3 days 16 hours 49 minutes 13.5 seconds.
+ 
+3ccx_05_nbo.log
+ Job cpu time:       0 days  2 hours 11 minutes 59.9 seconds.
+ 
+3ccx_12_nbo.log
+ Job cpu time:      20 days 12 hours  1 minutes  1.0 seconds.
+ 
+3ccx_16_nbo.log
+ Job cpu time:       0 days  2 hours  9 minutes 40.3 seconds.
+ 
+451c_01_chloro.log
+ Job cpu time:       0 days  2 hours 20 minutes  4.5 seconds.
+ 
+451c_01_nbo.log
+ Job cpu time:       4 days 21 hours 16 minutes 37.0 seconds.
+ 
+451c_05_nbo.log
+ Job cpu time:       6 days 14 hours 45 minutes 31.3 seconds.
+ 
+451c_12_nbo.log
+ Job cpu time:      21 days  2 hours 42 minutes 32.4 seconds.
+ 
+451c_16_chloro.log
+ Job cpu time:       2 days 18 hours  5 minutes  0.4 seconds.
+ 
+451c_16_nbo.log
+ Job cpu time:       3 days 21 hours 28 minutes 23.3 seconds.
+ 
+4mu8_01_chloro.log
+ Job cpu time:       0 days  2 hours  9 minutes  0.2 seconds.
+ 
+4mu8_01_nbo.log
+ Job cpu time:       4 days 12 hours 57 minutes 49.8 seconds.
+ 
+4mu8_05_nbo.log
+ Job cpu time:       7 days 20 hours 56 minutes 28.9 seconds.
+ 
+4mu8_12_nbo.log
+ Job cpu time:       7 days 13 hours 44 minutes 11.1 seconds.
+ 
+4mu8_16_nbo.log
+ Job cpu time:       0 days  4 hours 14 minutes 47.4 seconds.
+ 
+6k9j_01_nbo.log
+ Job cpu time:       1 days  7 hours 10 minutes 28.5 seconds.
+ 
+6k9j_05_chloro.log
+ Job cpu time:       4 days  5 hours 39 minutes 30.0 seconds.
+ 
+6k9j_05_nbo.log
+ Job cpu time:       9 days  3 hours 29 minutes  3.1 seconds.
+ 
+6k9j_12_chloro.log
+ Job cpu time:       7 days 18 hours 26 minutes 22.3 seconds.
+ 
+6k9j_12_nbo.log
+ Job cpu time:       8 days 22 hours 38 minutes 31.4 seconds.
+ 
+6k9j_16_chloro.log
+ Job cpu time:       3 days  7 hours 25 minutes 47.4 seconds.
+ 
+6k9j_16_nbo.log
+ Job cpu time:       5 days  1 hours 10 minutes 17.5 seconds.
+ 
+6u97_01_chloro.log
+ Job cpu time:       0 days  4 hours 35 minutes  3.4 seconds.
+ 
+6u97_01_nbo.log
+ Job cpu time:       7 days  7 hours 56 minutes 21.1 seconds.
+ 
+6u97_05_nbo.log
+ Job cpu time:      15 days 20 hours  6 minutes 28.8 seconds.
+ 
+6u97_12_nbo.log
+ Job cpu time:       6 days 19 hours 52 minutes 52.3 seconds.
+ 
+6u97_16_nbo.log
+ Job cpu time:       3 days  8 hours 52 minutes 27.1 seconds.
+ 
+6xcx_01_chloro.log
+ Job cpu time:       0 days  1 hours 36 minutes 12.7 seconds.
+ 
+6xcx_01_nbo.log
+ Job cpu time:       3 days  5 hours 24 minutes 47.7 seconds.
+ 
+6xcx_05_nbo.log
+ Job cpu time:       4 days  1 hours 12 minutes 53.8 seconds.
+ 
+6xcx_12_nbo.log
+ Job cpu time:       9 days  2 hours 20 minutes 32.1 seconds.
+ 
+6xcx_16_nbo.log
+ Job cpu time:      16 days 15 hours 39 minutes  5.0 seconds.
+ 
+7aba_01_nbo.log
+ Job cpu time:       0 days 16 hours  4 minutes 39.1 seconds.
+ 
+7aba_05_chloro.log
+ Job cpu time:       1 days 14 hours  8 minutes 40.8 seconds.
+ 
+7aba_05_nbo.log
+ Job cpu time:       2 days 22 hours 20 minutes 13.9 seconds.
+ 
+7aba_12_chloro.log
+ Job cpu time:       4 days  0 hours  5 minutes 44.1 seconds.
+ 
+7aba_12_nbo.log
+ Job cpu time:       7 days 23 hours 20 minutes 40.8 seconds.
+ 
+7aba_16_chloro.log
+ Job cpu time:       1 days  9 hours 33 minutes 47.9 seconds.
+ 
+7aba_16_nbo.log
+ Job cpu time:       2 days  4 hours 52 minutes 49.8 seconds.
+ 
+7abb_01_nbo.log
+ Job cpu time:       0 days 16 hours  9 minutes 18.2 seconds.
+ 
+7abb_05_chloro.log
+ Job cpu time:       4 days  4 hours 35 minutes 44.4 seconds.
+ 
+7abb_05_nbo.log
+ Job cpu time:       6 days 19 hours 55 minutes 43.6 seconds.
+ 
+7abb_12_chloro.log
+ Job cpu time:       4 days 19 hours 11 minutes 13.2 seconds.
+ 
+7abb_12_nbo.log
+ Job cpu time:       7 days 10 hours 54 minutes 51.3 seconds.
+ 
+7abb_16_chloro.log
+ Job cpu time:       1 days 10 hours 28 minutes 44.3 seconds.
+ 
+7abb_16_nbo.log
+ Job cpu time:       2 days 19 hours  5 minutes  0.9 seconds.
+ 
+Readm_01_nbo.log
+  
+time.sh
+    tail "$d" --lines=4 | head --lines=1 >> time.txt
+ 

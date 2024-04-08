@@ -1,0 +1,502 @@
+ Entering Gaussian System, Link 0=g16
+ Input=/net/homes/chemie/zhartovska/work/BioModel/Konrad/1flp/1flp12/1fpl16/1flp16.com
+ Output=/net/homes/chemie/zhartovska/work/BioModel/Konrad/1flp/1flp12/1fpl16/1flp16.log
+ Initial command:
+ /afs/math/software/gaussian/g16.A03/g16/l1.exe "/scratch/zhartovska_gaussian.mfnOiz6/Gau-17037.inp" -scrdir="/scratch/zhartovska_gaussian.mfnOiz6/"
+ Entering Link 1 = /afs/math/software/gaussian/g16.A03/g16/l1.exe PID=     17038.
+  
+ Copyright (c) 1988,1990,1992,1993,1995,1998,2003,2009,2016,
+            Gaussian, Inc.  All Rights Reserved.
+  
+ This is part of the Gaussian(R) 16 program.  It is based on
+ the Gaussian(R) 09 system (copyright 2009, Gaussian, Inc.),
+ the Gaussian(R) 03 system (copyright 2003, Gaussian, Inc.),
+ the Gaussian(R) 98 system (copyright 1998, Gaussian, Inc.),
+ the Gaussian(R) 94 system (copyright 1995, Gaussian, Inc.),
+ the Gaussian 92(TM) system (copyright 1992, Gaussian, Inc.),
+ the Gaussian 90(TM) system (copyright 1990, Gaussian, Inc.),
+ the Gaussian 88(TM) system (copyright 1988, Gaussian, Inc.),
+ the Gaussian 86(TM) system (copyright 1986, Carnegie Mellon
+ University), and the Gaussian 82(TM) system (copyright 1983,
+ Carnegie Mellon University). Gaussian is a federally registered
+ trademark of Gaussian, Inc.
+  
+ This software contains proprietary and confidential information,
+ including trade secrets, belonging to Gaussian, Inc.
+  
+ This software is provided under written license and may be
+ used, copied, transmitted, or stored only in accord with that
+ written license.
+  
+ The following legend is applicable only to US Government
+ contracts under FAR:
+  
+                    RESTRICTED RIGHTS LEGEND
+  
+ Use, reproduction and disclosure by the US Government is
+ subject to restrictions as set forth in subparagraphs (a)
+ and (c) of the Commercial Computer Software - Restricted
+ Rights clause in FAR 52.227-19.
+  
+ Gaussian, Inc.
+ 340 Quinnipiac St., Bldg. 40, Wallingford CT 06492
+  
+  
+ ---------------------------------------------------------------
+ Warning -- This program may not be used in any manner that
+ competes with the business of Gaussian, Inc. or will provide
+ assistance to any competitor of Gaussian, Inc.  The licensee
+ of this program is prohibited from giving any competitor of
+ Gaussian, Inc. access to this program.  By using this program,
+ the user acknowledges that Gaussian, Inc. is engaged in the
+ business of creating and licensing software in the field of
+ computational chemistry and represents and warrants to the
+ licensee that it is not a competitor of Gaussian, Inc. and that
+ it will not use this program in any manner prohibited above.
+ ---------------------------------------------------------------
+  
+
+ Cite this work as:
+ Gaussian 16, Revision A.03,
+ M. J. Frisch, G. W. Trucks, H. B. Schlegel, G. E. Scuseria, 
+ M. A. Robb, J. R. Cheeseman, G. Scalmani, V. Barone, 
+ G. A. Petersson, H. Nakatsuji, X. Li, M. Caricato, A. V. Marenich, 
+ J. Bloino, B. G. Janesko, R. Gomperts, B. Mennucci, H. P. Hratchian, 
+ J. V. Ortiz, A. F. Izmaylov, J. L. Sonnenberg, D. Williams-Young, 
+ F. Ding, F. Lipparini, F. Egidi, J. Goings, B. Peng, A. Petrone, 
+ T. Henderson, D. Ranasinghe, V. G. Zakrzewski, J. Gao, N. Rega, 
+ G. Zheng, W. Liang, M. Hada, M. Ehara, K. Toyota, R. Fukuda, 
+ J. Hasegawa, M. Ishida, T. Nakajima, Y. Honda, O. Kitao, H. Nakai, 
+ T. Vreven, K. Throssell, J. A. Montgomery, Jr., J. E. Peralta, 
+ F. Ogliaro, M. J. Bearpark, J. J. Heyd, E. N. Brothers, K. N. Kudin, 
+ V. N. Staroverov, T. A. Keith, R. Kobayashi, J. Normand, 
+ K. Raghavachari, A. P. Rendell, J. C. Burant, S. S. Iyengar, 
+ J. Tomasi, M. Cossi, J. M. Millam, M. Klene, C. Adamo, R. Cammi, 
+ J. W. Ochterski, R. L. Martin, K. Morokuma, O. Farkas, 
+ J. B. Foresman, and D. J. Fox, Gaussian, Inc., Wallingford CT, 2016.
+ 
+ ******************************************
+ Gaussian 16:  ES64L-G16RevA.03 25-Dec-2016
+                27-Jan-2023 
+ ******************************************
+ %nprocs=12
+ Will use up to   12 processors via shared memory.
+ %mem=16GB
+ %oldchk=1flp_III_D.chk
+ %chk=1flp_III_H.chk
+ Copying data from "1flp_III_D.chk" to current chk file "1flp_III_H.chk"
+ IOpt=  2 FromEx=T IUOpen= 4 IOptOp= 5 NList=   0 IFRang= 0 IUIn= 4 IUOut= 2.
+ ----------------------------------------------------------------------
+ # PBE1PBE/def2TZVP scf=maxcycle=999 empiricaldispersion=GD3BJ int=(gri
+ d=ultrafine) geom=check pop=nbo
+ ----------------------------------------------------------------------
+ 1/29=2,38=1,172=1/1;
+ 2/12=2,40=1/2;
+ 3/5=44,7=101,11=2,14=-4,25=1,30=1,74=-13,75=-5,124=41/1,2,3;
+ 4//1;
+ 5/5=2,7=999,38=5/2;
+ 6/7=2,8=2,9=2,10=2,28=1,40=1/1,7;
+ 99/5=1,9=1/99;
+ ----------
+ 1flp_III_H
+ ----------
+ Structure from the checkpoint file:  "1flp_III_H.chk"
+ Charge =  1 Multiplicity = 6
+ Z-Matrix found in chk file.
+ C,0,1.855,1.103,19.240999
+ C,0,2.991,1.833,18.511
+ N,0,4.255,2.041,19.082001
+ C,0,2.925,2.479,17.308001
+ C,0,4.985,2.723,18.195
+ N,0,4.18,3.017,17.136
+ Fe,0,4.822,4.251,15.293
+ C,0,5.474,6.932,17.278
+ C,0,8.116,3.228,15.537
+ C,0,4.14,1.437,13.497
+ C,0,1.664,5.303,14.788
+ N,0,6.373,4.842,16.259001
+ C,0,6.512,6.009,17.037001
+ C,0,7.835,6.061,17.683001
+ C,0,8.575,5.051,17.173
+ C,0,7.663,4.299,16.323
+ C,0,10.043,4.728,17.514
+ C,0,8.251,7.045,18.788
+ C,0,8.136,6.433,20.212999
+ C,0,6.73,6.452,20.652
+ O,0,6.199,7.559,20.885
+ O,0,6.081,5.431,20.542999
+ N,0,5.963,2.657,14.516
+ C,0,7.302,2.468,14.716
+ C,0,7.7,1.232,14.055
+ C,0,6.58,0.688,13.53
+ C,0,5.456,1.576,13.874
+ C,0,9.209,0.834,14.054
+ C,0,6.244,-0.593,12.799
+ C,0,7.076,-1.634,12.51
+ N,0,3.336,3.613,14.298
+ C,0,3.125,2.374,13.672
+ C,0,1.777,2.16,13.11
+ C,0,1.108,3.283,13.455
+ C,0,2.042,4.087,14.214
+ C,0,1.335,1.01,12.233
+ C,0,-0.344,3.747,13.175
+ C,0,-1.31282067,2.8313389,12.93103628
+ N,0,3.804,5.821,15.858
+ C,0,2.479,6.085,15.559
+ C,0,2.065,7.359,16.128
+ C,0,3.103,7.806,16.854
+ C,0,4.228,6.869,16.673
+ C,0,0.692,8.021,15.841
+ C,0,3.184,9.206,17.483999
+ C,0,3.407,10.303,16.416
+ C,0,3.506,11.672,17.031
+ O,0,4.595,12.015,17.506001
+ O,0,2.468,12.316,17.226999
+ O,0,5.495,5.394,13.439
+ H,0,2.17861909,0.83286919,20.22446228
+ H,0,1.00347556,1.7472287,19.31010403
+ H,0,1.59104733,0.22004968,18.69728242
+ H,0,4.55442559,1.73536294,19.98584297
+ H,0,6.01600364,2.99013895,18.29780208
+ H,0,2.0857576,2.55034434,16.64809026
+ H,0,6.5273177,4.58586112,20.45277277
+ H,0,8.72914317,7.005818,20.89487928
+ H,0,8.48949828,5.42322521,20.19585707
+ H,0,9.26531927,7.34203084,18.62117941
+ H,0,7.62419648,7.91043403,18.73285222
+ H,0,3.99551909,9.22809574,18.18102737
+ H,0,2.2712407,9.40712235,18.00488311
+ H,0,4.31236323,10.09343767,15.88562178
+ H,0,2.5885155,10.28938181,15.72694437
+ H,0,5.41161003,11.71951972,17.09680733
+ H,0,0.78269163,8.6821484,15.00460427
+ H,0,-0.03014099,7.26304304,15.61983574
+ H,0,0.37627532,8.57449409,16.70057095
+ H,0,5.65861365,7.72818761,17.9685817
+ H,0,10.648935,5.59167875,17.3356694
+ H,0,10.11647011,4.44723524,18.54388994
+ H,0,10.38270255,3.92085456,16.89916798
+ H,0,9.15705465,2.98376951,15.57516663
+ H,0,0.6661989,5.64698074,14.61201644
+ H,0,9.77668028,1.58653189,14.56029521
+ H,0,9.33106532,-0.10298755,14.55605019
+ H,0,9.5538728,0.74557419,13.04496897
+ H,0,7.40195976,-1.79489651,11.50363896
+ H,0,7.40289654,-2.28995872,13.28958759
+ H,0,5.23127752,-0.69450999,12.46886534
+ H,0,2.06625877,0.22986669,12.27240342
+ H,0,0.3952526,0.63594848,12.58208492
+ H,0,1.23075569,1.35051315,11.22399856
+ H,0,3.86965028,0.51712783,13.02197767
+ H,0,-0.58151903,4.79030448,13.17431145
+ H,0,-1.09720009,1.78722159,13.02173802
+ H,0,-2.29337467,3.15249472,12.64771176
+ Recover connectivity data from disk.
+ Stoichiometry    C38H38FeN6O5(1+,6)
+ Framework group  C1[X(C38H38FeN6O5)]
+ Deg. of freedom   258
+ Full point group                 C1      NOp   1
+ Largest Abelian subgroup         C1      NOp   1
+ Largest concise Abelian subgroup C1      NOp   1
+                         Standard orientation:                         
+ ---------------------------------------------------------------------
+ Center     Atomic      Atomic             Coordinates (Angstroms)
+ Number     Number       Type             X           Y           Z
+ ---------------------------------------------------------------------
+      1          6           0       -1.659744    0.771539    5.227612
+      2          6           0       -1.352433    0.133387    3.865769
+      3          7           0       -0.899663   -1.186716    3.726733
+      4          6           0       -1.342376    0.747241    2.644311
+      5          6           0       -0.708827   -1.406708    2.422900
+      6          7           0       -0.944352   -0.235918    1.767369
+      7         26           0       -0.711417    0.071772   -0.509172
+      8          6           0        2.587232   -0.723228   -0.309231
+      9          6           0       -1.496157   -3.221771   -1.211492
+     10          6           0       -4.039593    0.801228   -0.487433
+     11          6           0       -0.022526    3.339890   -0.085464
+     12          7           0        0.264941   -1.578979   -0.608089
+     13          6           0        1.660379   -1.761876   -0.531961
+     14          6           0        2.010266   -3.192485   -0.567822
+     15          6           0        0.880399   -3.879069   -0.850318
+     16          6           0       -0.183031   -2.884655   -0.848041
+     17          6           0        0.756584   -5.404615   -1.032018
+     18          6           0        3.396915   -3.780472   -0.261539
+     19          6           0        3.520151   -4.301800    1.198400
+     20          6           0        3.739072   -3.169927    2.115382
+     21          8           0        4.825911   -2.556813    2.047777
+     22          8           0        2.783894   -2.732304    2.725009
+     23          7           0       -2.481632   -0.997212   -0.921551
+     24          6           0       -2.552947   -2.328843   -1.222075
+     25          6           0       -3.953809   -2.691857   -1.391859
+     26          6           0       -4.682041   -1.583908   -1.130921
+     27          6           0       -3.738259   -0.510163   -0.775106
+     28          6           0       -4.303431   -4.146835   -1.834905
+     29          6           0       -6.156764   -1.259471   -1.040633
+     30          6           0       -7.210775   -2.115128   -1.168446
+     31          7           0       -1.742752    1.664517   -0.440051
+     32          6           0       -3.131103    1.845130   -0.333377
+     33          6           0       -3.585141    3.237657   -0.150454
+     34          6           0       -2.432164    3.939907   -0.078328
+     35          6           0       -1.365150    2.967850   -0.185278
+     36          6           0       -5.012306    3.736200   -0.191080
+     37          6           0       -2.155144    5.455886    0.086197
+     38          6           0       -3.080720    6.254239    0.671440
+     39          7           0        0.938904    1.099581   -0.307930
+     40          6           0        1.030399    2.468129   -0.125100
+     41          6           0        2.421924    2.885926   -0.039432
+     42          6           0        3.157970    1.762538   -0.063232
+     43          6           0        2.246890    0.620226   -0.266732
+     44          6           0        2.870962    4.369940    0.003102
+     45          6           0        4.690344    1.730030   -0.182524
+     46          6           0        5.162848    2.117383   -1.603952
+     47          6           0        6.660840    2.067875   -1.729474
+     48          8           0        7.187900    0.967831   -1.932710
+     49          8           0        7.319921    3.069429   -1.424354
+     50          8           0       -0.564045    0.337710   -2.768431
+     51          1           0       -1.439264    0.072379    6.007011
+     52          1           0       -1.059303    1.648065    5.354394
+     53          1           0       -2.694879    1.039005    5.270715
+     54          1           0       -0.747779   -1.842046    4.466648
+     55          1           0       -0.422613   -2.335048    1.974386
+     56          1           0       -1.588729    1.764114    2.420303
+     57          1           0        1.995118   -3.269156    2.830942
+     58          1           0        4.346053   -4.978750    1.265669
+     59          1           0        2.619670   -4.811335    1.471178
+     60          1           0        3.583756   -4.591407   -0.934127
+     61          1           0        4.135480   -3.022753   -0.420549
+     62          1           0        5.036609    0.743036    0.042963
+     63          1           0        5.109496    2.416435    0.523210
+     64          1           0        4.731788    1.439526   -2.310774
+     65          1           0        4.827788    3.109508   -1.823775
+     66          1           0        6.737210    0.311375   -2.468942
+     67          1           0        3.065741    4.712294   -0.991762
+     68          1           0        2.095984    4.964700    0.439646
+     69          1           0        3.760931    4.456583    0.590764
+     70          1           0        3.613987   -0.987246   -0.164425
+     71          1           0        1.438483   -5.730074   -1.789639
+     72          1           0        0.988839   -5.893737   -0.109133
+     73          1           0       -0.243524   -5.649089   -1.323421
+     74          1           0       -1.692390   -4.233671   -1.498637
+     75          1           0        0.197726    4.380569    0.030190
+     76          1           0       -3.400531   -4.703431   -1.975871
+     77          1           0       -4.897764   -4.616662   -1.079306
+     78          1           0       -4.851711   -4.117990   -2.753304
+     79          1           0       -7.821947   -2.083766   -2.046163
+     80          1           0       -7.426669   -2.817909   -0.391022
+     81          1           0       -6.402495   -0.234939   -0.853950
+     82          1           0       -5.682566    2.904887   -0.123467
+     83          1           0       -5.182101    4.399077    0.631515
+     84          1           0       -5.182026    4.257373   -1.110032
+     85          1           0       -5.075352    1.042928   -0.370446
+     86          1           0       -1.233102    5.872169   -0.262296
+     87          1           0       -3.961531    5.825618    1.101971
+     88          1           0       -2.930700    7.313200    0.702988
+ ---------------------------------------------------------------------
+ Rotational constants (GHZ):           0.0715338           0.0499899           0.0375477
+ Standard basis: def2TZVP (5D, 7F)
+ There are  2044 symmetry adapted cartesian basis functions of A   symmetry.
+ There are  1792 symmetry adapted basis functions of A   symmetry.
+  1792 basis functions,  2905 primitive gaussians,  2044 cartesian basis functions
+   189 alpha electrons      184 beta electrons
+       nuclear repulsion energy      7548.1841855258 Hartrees.
+ NAtoms=   88 NActive=   88 NUniq=   88 SFac= 1.00D+00 NAtFMM=   60 NAOKFM=T Big=T
+ Integral buffers will be    131072 words long.
+ Raffenetti 2 integral format.
+ Two-electron integral symmetry is turned on.
+ Nuclear repulsion after empirical dispersion term =     7548.0566854000 Hartrees.
+ One-electron integrals computed using PRISM.
+   1 Symmetry operations used in ECPInt.
+ ECPInt:  NShTT=  249571 NPrTT=  775641 LenC2=  182731 LenP2D=  367299.
+ LDataN:  DoStor=T MaxTD1= 6 Len=  172
+ NBasis=  1792 RedAO= T EigKep=  4.28D-06  NBF=  1792
+ NBsUse=  1792 1.00D-06 EigRej= -1.00D+00 NBFU=  1792
+ ExpMin= 4.20D-02 ExpMax= 3.01D+05 ExpMxC= 2.91D+03 IAcc=3 IRadAn=         5 AccDes= 0.00D+00
+ Harris functional with IExCor= 1009 and IRadAn=       5 diagonalized for initial guess.
+ HarFok:  IExCor= 1009 AccDes= 0.00D+00 IRadAn=         5 IDoV= 1 UseB2=F ITyADJ=14
+ ICtDFT=  3500011 ScaDFX=  1.000000  1.000000  1.000000  1.000000
+ FoFCou: FMM=F IPFlag=           0 FMFlag=      100000 FMFlg1=        2001
+         NFxFlg=           0 DoJE=T BraDBF=F KetDBF=T FulRan=T
+         wScrn=  0.000000 ICntrl=       500 IOpCl=  0 I1Cent=   200000004 NGrid=           0
+         NMat0=    1 NMatS0=      1 NMatT0=    0 NMatD0=    1 NMtDS0=    0 NMtDT0=    0
+ Petite list used in FoFCou.
+ Initial guess <Sx>= 0.0000 <Sy>= 0.0000 <Sz>= 2.5000 <S**2>= 8.7500 S= 2.5000
+ Requested convergence on RMS density matrix=1.00D-08 within 999 cycles.
+ Requested convergence on MAX density matrix=1.00D-06.
+ Requested convergence on             energy=1.00D-06.
+ No special actions if energy rises.
+ EnCoef did     5 forward-backward iterations
+ EnCoef did   100 forward-backward iterations
+ EnCoef did   100 forward-backward iterations
+ EnCoef did   100 forward-backward iterations
+ EnCoef did     3 forward-backward iterations
+ EnCoef did   100 forward-backward iterations
+ EnCoef did     2 forward-backward iterations
+ EnCoef did     5 forward-backward iterations
+ EnCoef did     2 forward-backward iterations
+ EnCoef did     5 forward-backward iterations
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Restarting incremental Fock formation.
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Restarting incremental Fock formation.
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Restarting incremental Fock formation.
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Restarting incremental Fock formation.
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Restarting incremental Fock formation.
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Restarting incremental Fock formation.
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Restarting incremental Fock formation.
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Restarting incremental Fock formation.
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Restarting incremental Fock formation.
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Restarting incremental Fock formation.
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Restarting incremental Fock formation.
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Restarting incremental Fock formation.
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Restarting incremental Fock formation.
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Restarting incremental Fock formation.
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Restarting incremental Fock formation.
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Restarting incremental Fock formation.
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Restarting incremental Fock formation.
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Restarting incremental Fock formation.
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Rare condition: small coef for last iteration:  0.000D+00
+ Restarting incremental Fock formation.
+ Rare condition: small coef for last iteration:  0.000D+00
